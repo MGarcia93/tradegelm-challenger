@@ -1,3 +1,15 @@
+# CHALLENGER TRADEHELM
+Challenger de la empresa tradehelm  desarrollado para implementar lo aprendido en react. La consigna y repositorio de inicio se tomo del[video de twicht](https://www.twitch.tv/videos/884871375?collection=TIK7JPa5ZhYSRQ) de streamer [goncypozzo](https://www.twitch.tv/goncypozzo) en el cual el desarrolla parte de este challenger
+
+## Tecnologias
+ * HTML5
+ * SCSS
+ * React
+ * TypeScript
+
+
+
+## Acontinuacion se mostrar lo pedido 
 ![Tradehelm](./public/logo.svg "TradeHelm")
 
 En el camino desde mi casa al supermercado, mi cerebro pierde la capacidad de retener información, por ende necesito hacer una aplicación que se encargue de esa difícil tarea. No, no puedo usar Google Keep, Evernote, nada, soy dev, la tengo que hacer, además esto es un challenge así que agarrá la pala.
